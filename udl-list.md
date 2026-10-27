@@ -125,7 +125,7 @@
 | [Google Go (syntax and auto-completion)](./UDLs/go_byAnthonyStarks.xml) | [Anthony Starks](mailto:ajstarks@gmail.com) | Google Go (syntax and auto-completion) |
 | [Google Protocol Buffers](./UDLs/GoogleProtocolBuffers-GPB_byBradWehmeier.xml) | [Brad Wehmeier](mailto:bradboy57@gmail.com) | Google Protocol Buffers |
 | [GPD](https://github.com/SinghRajenM/GPD_UDL) | [Rajendra Singh](https://github.com/SinghRajenM) | UDL for GPD (Generic Printer Description) and GDL (Generic Description Language). |
-| [GraphViz](https://raw.githubusercontent.com/signmotion/graphviz-syntax-highlighting/master/graphviz-notepad-udl.xml) | [signmotion](https://github.com/signmotion/graphviz-syntax-highlighting) | GraphViz |
+| [GraphViz](https://raw.githubusercontent.com/signmotion/graphviz-syntax-highlighting/master/src/graphviz_udl.xml) | [signmotion](https://github.com/signmotion/graphviz-syntax-highlighting) | GraphViz |
 | [Gregorio](./UDLs/Gregorio_byBrotherGabriel-Marie.xml) | [Brother Gabriel-Marie](mailto:brgabriel@sspx.org) | Gregorio |
 | [Groovy](./UDLs/Groovy_byGyrm.xml) | [gyrm](mailto:gyrm@users.sourceforge.net) | Groovy |
 | [HL7 (ChrisK variant)](./UDLs/HL7_StackOverflow-ChrisK.xml) | [Chris K](https://stackoverflow.com/a/11037142/5508606) | HL7 |
@@ -148,7 +148,7 @@
 | [Interactive Data Language (.pro files)](./UDLs/ITT_IDL-pro_byDavidHiggins.xml) | [David Higgins](mailto:higgins.david@gmail.com) | Interactive Data Language (.pro files) |
 | [Interface Definition Language](./UDLs/IDL_byAlexisBietti.xml) | [Alexis Bietti](mailto:alexisbietti@gmail.com) | Interface Definition Language |
 | [INTERLIS](./UDLs/interlis_byStefanBurckhardt.xml) | [Stefan Burckhardt](https://geostandards-ch.github.io/doc_refhb24/#_sonderzeichen_und_reservierte_w%C3%B6rter) | Syntax Highlightin for INTERLIS |
-| [Jai](https://github.com/cookednick/jai_npp) | cookednick | Jai syntax highlighting |
+| [Jai](./UDLs/jai.udl.xml) | cookednick | Jai syntax highlighting |
 | [javascript](./UDLs/Javascript-alt_byMarkRamirez.xml) | [Mark Ramirez](mailto:mail.umlcat@gmail.com) | javascript |
 | [jBase Basic](./UDLs/jBaseBasic-jbc_byGene.xml) | [Gene](mailto:13760193932@163.com) | jBase Basic |
 | [JBoss Drools Rules](./UDLs/JBossDroolsRules_byArulPrashanth.xml) | [Arul Prashanth](mailto:arul.prashanth@gmail.com) | JBoss Drools Rules |
@@ -181,6 +181,7 @@
 | [MotoMan](./UDLs/MotoMan_byArnaudMonnier.xml) | [Arnaud Monnier](mailto:monnier.arnaud@gmail.com) | MotoMan |
 | [MotoMan Ladder](./UDLs/MotoMan_Ladder_byArnaudMonnier.xml) | [Arnaud Monnier](mailto:monnier.arnaud@gmail.com) | MotoMan Ladder |
 | [MQL4](./UDLs/MQL4_byMichaelMargolese.xml) | [Michael Margolese](mailto:shalom.michael@gmail.com) | MQL4 |
+| [mql5](./UDLs/mql5_by_andydoc.udl.xml) | andydoc | Metaquotes Query Language 5 |
 | [MSC Adams Car](./UDLs/MSC-adams_car_by_ARRK.xml) | [Alexander Recknagel](https://www.arrkeurope.com/) | MSC-Adams_Car |
 | [MSC-Nastran](http://sourceforge.net/projects/nastranpatransyntax/files/MSC.Nastran.zip) | [Onur Arif Yaşa](mailto:onurarifyasa@yahoo.com) | MSC-Nastran |
 | [MSC-Patran](http://sourceforge.net/projects/nastranpatransyntax/files/MSC.Patran.zip) | [Onur Arif Yaşa](mailto:onurarifyasa@yahoo.com) | MSC-Patran |
@@ -247,7 +248,7 @@
 | [REXX (several dialects), with autocompletion](./UDLs/REXX-SeveralDialects_byGertMassheimer.xml) | [Gert Massheimer](mailto:Delta@DeltaOS.de) | REXX (several dialects), with autocompletion |
 | [RISC-V](https://github.com/aidan-d123/riscv_npp/blob/main/RISCV-Light_byAidanDempsey.xml) | [Aidan Dempsey](https://github.com/aidan-d123/riscv_npp) | RISC-V UDL File for Notepad++ |
 | [Robotframework v0.1](./UDLs/vkosuri_lang-robot.xml) | [https://github.com/vkosuri](https://github.com/vkosuri/npp-robot) | Notepad++ syntax highlighting for Robotframework |
-| [RouterOS Script - NieL™](https://github.com/NieLTechSolution/Notepad-plus-plus/blob/e8422064a97eb7cd372c2b5769f760ce233b5bbc/UDL/RouterOS-Script-NieL%E2%84%A2.xml) | NieL™ TechSolution |  <details> <summary> Syntax for the Mikrotik RouterOS Script, it is unofficial UDL to help scripting your mikrotik. </summary>  Highlighting syntax somewhat helpful of detecting error inputs </details> |
+| [RouterOS Script - NieL™](./UDLs/RouterOS-Script_byNieL_TM.xml) | [NieL™ TechSolution](https://github.com/NieLTechSolution/) |  <details> <summary> Syntax for the Mikrotik RouterOS Script, it is unofficial UDL to help scripting your mikrotik. </summary>  Highlighting syntax somewhat helpful of detecting error inputs </details> |
 | [RPM spec files](./UDLs/RPM-SpecFiles_byMatthewKruer.xml) | [Matthew Kruer](mailto:mkruer.public@verizon.net) | RPM spec files |
 | [RTF Rich Text Format](https://raw.githubusercontent.com/nakohdo/NPP.RTF/master/userDefineLang_RTF.xml) | [Frank Ralf](https://github.com/nakohdo/NPP.RTF) | RTF Rich Text Format |
 | [Rules Language](./UDLs/Rules_Language_byNimadDeshpande.xml) | [Nimad Deshpande](mailto:nimad116@gmail.com) | Rules Language |
